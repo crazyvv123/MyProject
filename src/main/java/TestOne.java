@@ -12,5 +12,6 @@ public class TestOne {
           System.out.println("456789100000000000");
           System.out.println("456789100000000000");
         System.out.println("啊1111111");
+        System.out.println("testyfy");
     }
 }
